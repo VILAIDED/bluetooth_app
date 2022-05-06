@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VDK</string>
+    <string name="title_not_connected">not connect</string>
+    <string name="title_connecting">connecting</string>
+    <string name="title_connecting_to">Connectiong to </string>
+    <string name="title_connecteed">Connected</string>
+    <string name="title_finding">Finding...</string>
+    <string name="title_disconnect">Disconnect</string>
+    <string name="title_btn_connect">Connect</string>
+    <string name="title_btn_disconnect">Disconnect</string>
+
+</resources>
